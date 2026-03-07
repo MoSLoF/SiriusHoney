@@ -1,6 +1,9 @@
 # Cursor IDE
 ./.cursor/
 
+# Session/cookie files
+cookies.txt
+
 # Build artifacts and temporary files
 **/tmp/
 **/build/
