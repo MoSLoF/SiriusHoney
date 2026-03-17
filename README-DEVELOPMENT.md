@@ -164,3 +164,26 @@ The repository includes automatic validation:
 - **Git Ignore**: Prevents local files from being committed
 
 This ensures the repository stays clean and deployments are predictable.
+
+
+---
+
+## HoneyBadger Vanguard
+
+**Part of the [HoneyBadger Vanguard (HBV)](https://ihbv.io) purple team ecosystem.**
+
+HBV fork of SiriusHoney — honeypot and deception infrastructure platform.
+
+```powershell
+$global:Intent = 'Purple'  # Understand offense. Build better defense.
+```
+
+| | |
+|---|---|
+| **Org** | [MoSLoF on GitHub](https://github.com/MoSLoF) |
+| **Platform** | HoneyBadger Vanguard 2.0 |
+| **Demo Target** | CyberShield 2026 - Little Rock, AR |
+| **License** | See LICENSE |
+
+> The difference between a red team tool and a purple team tool is intent.
+> -- $global:Intent = 'Purple'
